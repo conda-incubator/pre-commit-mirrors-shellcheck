@@ -1,0 +1,6 @@
+- id: shellcheck-conda
+  name: shellcheck-codna
+  description: A static analysis tool for shell scripts
+  entry: shellcheck
+  language: conda
+  types: [shell]

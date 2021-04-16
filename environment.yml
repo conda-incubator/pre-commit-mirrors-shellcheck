@@ -1,0 +1,4 @@
+channels:
+  - conda-forge
+dependencies:
+  - shellcheck=0.7.1
